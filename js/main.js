@@ -51,7 +51,7 @@ function punktePruefen(punkte) {
         console.log(punkte + "nicht zulässig")    //w
     }else{
     summe = summe + punkte;
-    anzahlNote = anzahlNote + 1;
+    anzahlNote = anzahlNote + 1;                  // All Eyes on me!! (2Pac)
     }
 
 
